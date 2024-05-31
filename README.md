@@ -1,10 +1,12 @@
-![MasterHead](https://giffiles.alphacoders.com/220/220234.gif)
+<img align="center" alt="Coding" width="1000" height="400" src="https://giffiles.alphacoders.com/220/220234.gif">
+
 # :rocket: Sevanthi Shekar 
 **`Digital Artisan`**
 <br>
 <br>
 Just a CSE student trying to navigate through the digital world. My projects are built from scratch and are centered around concepts that hold grave value to me. My main aim is to help revolutionize the coding space that benefits the general public and the world as a whole. 
 <hr>
+
 
 ### 🧰 Languages and Tools
 
